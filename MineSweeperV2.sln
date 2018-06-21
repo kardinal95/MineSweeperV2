@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeperV2", "MineSweeperV2\MineSweeperV2.csproj", "{36218C2A-B173-4649-9050-267533ADF565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeper.Core", "MineSweeper.Core\MineSweeper.Core.csproj", "{F93E911B-21BD-4B79-8748-B35313765420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36218C2A-B173-4649-9050-267533ADF565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36218C2A-B173-4649-9050-267533ADF565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36218C2A-B173-4649-9050-267533ADF565}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{36218C2A-B173-4649-9050-267533ADF565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36218C2A-B173-4649-9050-267533ADF565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36218C2A-B173-4649-9050-267533ADF565}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F93E911B-21BD-4B79-8748-B35313765420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93E911B-21BD-4B79-8748-B35313765420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93E911B-21BD-4B79-8748-B35313765420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93E911B-21BD-4B79-8748-B35313765420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF748CB1-7D35-4229-9218-A3D8D7809880}
+	EndGlobalSection
+EndGlobal
